@@ -1,3 +1,3 @@
-DB_NAME= 'tech_blog_db'
-DB_USER='root'
-DB_PASSWORD='password'
+DROP DATABASE IF EXISTS model_db;
+
+CREATE DATABASE model_db;
